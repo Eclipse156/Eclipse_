@@ -39,3 +39,4 @@ let Pos1: Position = null
 let Pos2: Position = null
 let WhichPos = 0
 WhichPos = -1
+gameplay.setGameRule(SHOW_COORDINATES, true)
